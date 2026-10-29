@@ -1,6 +1,6 @@
 # INSTALLATION 
 
-git clone https://github.com/thakshiladapa6/DISCORD-CREDIT-CARD-CHECKER-BOT.git
+```git clone https://github.com/thakshiladapa6/DISCORD-CREDIT-CARD-CHECKER-BOT.git```
 
 ``` cd DISCORD-CREDIT-CARD-CHECKER-BOT ```
 

@@ -6,7 +6,7 @@
 
 ```pip install -r requirements.txt```
 
-``` python DISCORD-CREDIT-CARD-CHECKER-BOT.py```
+``` python DISCORD-CREDIT-CARD-CHECKER-BOT.py <BOT_TOKEN>```
 
 # CONTACT 
 

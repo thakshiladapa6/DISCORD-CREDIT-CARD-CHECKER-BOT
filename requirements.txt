@@ -1,0 +1,5 @@
+discord.py
+aiohttp
+colorama
+requests
+beautifulsoup4
